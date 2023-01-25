@@ -10,9 +10,9 @@ function preloader() {
 }
 
 
-function redierctSinhala() {
+/*function redierctSinhala() {
     var checkbox = document.getElementById("language-switch");
     if (checkbox.checked == true) {
         location.replace("SIVALI JUNIOR SCIENCE CLUB WEBSITE [SJSCW].html")
     }
-}
+}*/

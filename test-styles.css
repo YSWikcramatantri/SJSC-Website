@@ -7,6 +7,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 15px;
 }
 
 #header-img {
@@ -41,6 +42,15 @@ header {
     transition: background-color 0.5s;
 }
 
+#language-change {
+    display: flex;
+    align-items: center;
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+}
+#language-change p {
+    padding: 10px;
+}
 
 
 /*Toggle Switch*/
